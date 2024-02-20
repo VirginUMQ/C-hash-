@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\bin\Debug\net7.0\Lesson1Seminar.exe
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\bin\Debug\net7.0\Lesson1Seminar.deps.json
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\bin\Debug\net7.0\Lesson1Seminar.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\bin\Debug\net7.0\Lesson1Seminar.dll
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\bin\Debug\net7.0\Lesson1Seminar.pdb
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.dll
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\refint\Lesson1Seminar.dll
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.pdb
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\Lesson1Seminar.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Lesson1Seminar\obj\Debug\net7.0\ref\Lesson1Seminar.dll
