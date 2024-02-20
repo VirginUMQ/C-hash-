@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Lesson2Array\bin\Debug\net7.0\Lesson2Array.exe
+C:\Users\Admin\Desktop\C#\Lesson2Array\bin\Debug\net7.0\Lesson2Array.deps.json
+C:\Users\Admin\Desktop\C#\Lesson2Array\bin\Debug\net7.0\Lesson2Array.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Lesson2Array\bin\Debug\net7.0\Lesson2Array.dll
+C:\Users\Admin\Desktop\C#\Lesson2Array\bin\Debug\net7.0\Lesson2Array.pdb
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.dll
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\refint\Lesson2Array.dll
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.pdb
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\Lesson2Array.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Lesson2Array\obj\Debug\net7.0\ref\Lesson2Array.dll
