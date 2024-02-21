@@ -80,26 +80,31 @@ for (int i = 0; i < (NaturStr.Length);){
 } 
 
 
-// РЕШЕНИЕ ГРУПАША (СКОРЕЕ ВСЕГО ТО, ЧТО ОЖИДАЛОСЬ):
-// Console.Write("Введите целое число: ");
-// int number = Convert.ToInt32(Console.ReadLine()); 
-// int i = 1;
-// int variable = number;
+// --------------- РЕШЕНИЕ ГРУПАША (СКОРЕЕ ВСЕГО ТО, ЧТО ОЖИДАЛОСЬ): ----------------------------
 
-// while (variable != 0){
-//     variable = variable / 10; 
-//     i *= 10; 
+// Console.Write("Введите целое число: ");
+// int usernum = Convert.ToInt32(Console.ReadLine()); 
+// int usernumfake = usernum; 
+// int l = 1;
+
+// while( usernumfake != 0 ) {
+//     usernumfake = usernumfake / 10; 
+//     l = l * 10; 
 // }
 
-// while (i > 1) { 
-//     i = i / 10;
-//     variable = number / i; 
-//     if (i > 1) {
-//         Console.Write(variable + ", ");
-//         number = number % i;
+// while (l > 1) { 
+//     l = l / 10;
+//     usernumfake = usernum / l; 
+//     if (l > 1) {
+//         Console.Write(usernumfake + ", ");
+//         usernum = usernum % l;
 //     }
 //     else {
-//         Console.Write(variable);
+//         Console.Write(usernumfake + ".");
 //     }
 // }
+
+
+
+
 
