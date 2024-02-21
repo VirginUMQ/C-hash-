@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\bin\Debug\net7.0\PARSEandTRYPARSE.exe
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\bin\Debug\net7.0\PARSEandTRYPARSE.deps.json
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\bin\Debug\net7.0\PARSEandTRYPARSE.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\bin\Debug\net7.0\PARSEandTRYPARSE.dll
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\bin\Debug\net7.0\PARSEandTRYPARSE.pdb
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.dll
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\refint\PARSEandTRYPARSE.dll
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.pdb
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\PARSEandTRYPARSE.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\PARSEandTRYPARSE\obj\Debug\net7.0\ref\PARSEandTRYPARSE.dll
