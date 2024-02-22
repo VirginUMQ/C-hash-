@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\Lesson3Array\bin\Debug\net7.0\Lesson3Array.exe
+C:\Users\Admin\Desktop\c#\Lesson3Array\bin\Debug\net7.0\Lesson3Array.deps.json
+C:\Users\Admin\Desktop\c#\Lesson3Array\bin\Debug\net7.0\Lesson3Array.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Lesson3Array\bin\Debug\net7.0\Lesson3Array.dll
+C:\Users\Admin\Desktop\c#\Lesson3Array\bin\Debug\net7.0\Lesson3Array.pdb
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.dll
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\refint\Lesson3Array.dll
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.pdb
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\Lesson3Array.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Lesson3Array\obj\Debug\net7.0\ref\Lesson3Array.dll
