@@ -72,7 +72,7 @@ for (int i = 0; i == 0;){
 }
 
 string NaturStr = Convert.ToString(Natur);
-for (int i = 0; i < (NaturStr.Length);){
+for (int i = 0; i < NaturStr.Length;){
     Console.Write(NaturStr[i]);
     i++;
     if (i < NaturStr.Length) { Console.Write(", "); }
