@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\Array2D\bin\Debug\net7.0\Array2D.exe
+C:\Users\Admin\Desktop\c#\Array2D\bin\Debug\net7.0\Array2D.deps.json
+C:\Users\Admin\Desktop\c#\Array2D\bin\Debug\net7.0\Array2D.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Array2D\bin\Debug\net7.0\Array2D.dll
+C:\Users\Admin\Desktop\c#\Array2D\bin\Debug\net7.0\Array2D.pdb
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.dll
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\refint\Array2D.dll
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.pdb
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\Array2D.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Array2D\obj\Debug\net7.0\ref\Array2D.dll
