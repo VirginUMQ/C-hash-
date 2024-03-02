@@ -11,4 +11,4 @@ for ( bool i = false; i == false; ) {
     int CountEl = int.Parse(strCountEl);
     if ( CountEl <= 0 ) { i = false; } // если число <= 0, то i = false
     } 
-} // ПРАВДА ХЗ КАК ВЫВЕСТИ CountEl ЗА ЦИКЛ НЕ МЕНЯЯ КОД, ЧТОБЫ РАБОТАТЬ С ПЕРЕМЕННОЙ ДАЛЬШЕ
+} 
