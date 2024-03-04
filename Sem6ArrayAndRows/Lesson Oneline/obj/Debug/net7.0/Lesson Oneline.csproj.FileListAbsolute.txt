@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\bin\Debug\net7.0\Lesson Oneline.exe
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\bin\Debug\net7.0\Lesson Oneline.deps.json
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\bin\Debug\net7.0\Lesson Oneline.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\bin\Debug\net7.0\Lesson Oneline.dll
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\bin\Debug\net7.0\Lesson Oneline.pdb
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.dll
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\refint\Lesson Oneline.dll
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.pdb
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\Lesson Oneline.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\Sem6ArrayAndRows\Lesson Oneline\obj\Debug\net7.0\ref\Lesson Oneline.dll
