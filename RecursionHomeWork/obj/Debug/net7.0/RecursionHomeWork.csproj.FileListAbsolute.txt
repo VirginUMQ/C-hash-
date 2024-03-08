@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\bin\Debug\net7.0\RecursionHomeWork.exe
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\bin\Debug\net7.0\RecursionHomeWork.deps.json
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\bin\Debug\net7.0\RecursionHomeWork.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\bin\Debug\net7.0\RecursionHomeWork.dll
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\bin\Debug\net7.0\RecursionHomeWork.pdb
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.dll
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\refint\RecursionHomeWork.dll
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.pdb
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\RecursionHomeWork.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\RecursionHomeWork\obj\Debug\net7.0\ref\RecursionHomeWork.dll
